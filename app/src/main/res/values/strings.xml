@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LinearLayouts</string>
+    <string name="text">Hello Welcome!</string>
+    <string name="text2">LOGIN FORM</string>
+    <string name="text3">Next</string>
+    <string name="btn1">Back</string>
+    <string name="btn2">Exit</string>
+    <string name="edit1">Enter username</string>
+    <string name="edit2">Enter password</string>
+    <string name="btn3">Login</string>
+    <string name="btn4">Home</string>
+    <string name="text4">Login Form</string>
+</resources>

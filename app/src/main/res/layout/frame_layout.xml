@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:layout_marginLeft="0dp"
+    android:layout_marginTop="0dp"
+
+    >
+
+    <ImageView
+        android:src="@drawable/ic_launcher_background"
+        android:scaleType="centerCrop"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+
+        />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center"
+        android:text="@string/text"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+
+        />
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text3"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="180dp
+"
+        />
+
+</FrameLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutExercise</string>
+    <string name="text">name</string>
+    <string name="age">Age</string>
+    <string name="year">Year</string>
+    <string name="marks">Marks</string>
+    <stri
